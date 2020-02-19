@@ -31,7 +31,7 @@ Este projeto foi desenvolvido com base na descrição do quinto desafio do bootc
 ```bash
 $ git clone https://github.com/SnakeJoao/bootcamp-gostack-desafio-05
 
-$ cd bootcamp-gostack-desafio-04
+$ cd bootcamp-gostack-desafio-05
 
 $ yarn
 
